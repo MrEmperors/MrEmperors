@@ -1,13 +1,19 @@
-<h1 align="center">Selam Dostum Profilime Hoşgeldin 👋</h1>
-<p align="center">
-  <a href="https://discord.com/users/787990350412906536" target"blank_"><img src="https://img.shields.io/badge/Discord%20Profilim%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/ykv5hp8gdi19ul5zffh8xl2al?si=7jhLdrQASIa-f1ccEkhBZw" target"blank_"><img src="https://img.shields.io/badge/Spotify%20Hesab%C4%B1m%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://github.com/MrEmperors" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <br><img src = "https://img.shields.io/github/followers/MrEmperors?color=Green&label=Takip%C3%A7i&logo=Github%20takip%C3%A7isi&style=for-the-badge">
-<img src = "https://img.shields.io/github/stars/MrEmperors?label=Y%C4%B1ld%C4%B1z&style=for-the-badge"></br>
-<br><a href = "https://discord.gg/eam3rFEpph" target"blank_"><img src = "https://img.shields.io/discord/616170912160677888?label=Discord%20Sunucum&style=for-the-badge"></br>
-</p>
+[![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrEmperors&count_private=true&show_icons=true&theme=black&hide_border=true" width="%100" height="150px"
-</p>
+### Merhabaağ
+Selam ben emperor, bir developerim #-#
+
+Yakın zamanda paylaşacağım projelerim!
+- [Yakında!]() (Discord Bot -Public)
+- [Yakında!]() (Discord Bot -Moderation)
+- [Yakında!]() (Discord Bot -Manager)
+- [Yakında!]() (Discord Bot -Invite)
+- [Yakında!]() (Discord Bot -Stat)
+
+En sevdiğim dil komik çünkü nodejs, neden nodejs? geliştirmesi kolay. Önemli şeyler için onu kullanma eğiliminde değilim.
+
+Neden discord.js botları yapıyorum, çünkü kendini geliştirmek için güzel bir örnek. Ve insanları kekleyen aptallarıda uzaklaştırmak hoşuma gidiyor!
+
+![tascord's github stats](https://github-readme-stats.vercel.app/api?username=MrEmperors)
