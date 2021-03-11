@@ -10,7 +10,7 @@ Yakın zamanda paylaşacağım projelerim!
 - [Yakında!]() (Discord Bot -Moderation)
 - [Yakında!]() (Discord Bot -Manager)
 - [Yakında!]() (Discord Bot -Invite)
-- [Yakında!]() (Discord Bot -Stat)
+- [Tıkla!](https://github.com/MrEmperors/discord-yetkili-stat-bot) (Discord Bot -Stat)
 
 En sevdiğim dil komik çünkü nodejs, neden nodejs? geliştirmesi kolay. Önemli şeyler için onu kullanma eğiliminde değilim.
 
