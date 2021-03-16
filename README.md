@@ -12,8 +12,4 @@ Yakın zamanda paylaşacağım projelerim!
 - [Yakında!]() (Discord Bot -Invite)
 - [Tıkla!](https://github.com/MrEmperors/discord-yetkili-stat-bot) (Discord Bot -Stat)
 
-En sevdiğim dil komik çünkü nodejs, neden nodejs? geliştirmesi kolay. Önemli şeyler için onu kullanma eğiliminde değilim.
-
-Neden discord.js botları yapıyorum, çünkü kendini geliştirmek için güzel bir örnek. Ve insanları kekleyen aptallarıda uzaklaştırmak hoşuma gidiyor!
-
 ![tascord's github stats](https://github-readme-stats.vercel.app/api?username=MrEmperors)
